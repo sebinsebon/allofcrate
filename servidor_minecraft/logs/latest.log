@@ -4901,3 +4901,11 @@ ModdedBiomeSource (1b9febc1)
 [25May2025 18:23:26.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy has made the advancement [What a Deal!]
 [25May2025 18:27:43.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darrouy> nmak
 [25May2025 18:27:57.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darrouy> make myu youirait
+[25May2025 18:32:14.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hydraulic Engineer'/21771, l='ServerLevel[world]', x=483.17, y=73.00, z=554.30] died, message: 'Hydraulic Engineer hit the ground too hard'
+[25May2025 18:33:03.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:33:08.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/23787, l='ServerLevel[world]', x=1661.76, y=68.94, z=-360.77] died, message: 'Shepherd was slain by Mabilone'
+[25May2025 18:36:07.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:37:05.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:38:24.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:39:41.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy has completed the challenge [Hot Tourist Destinations]
+[25May2025 18:39:47.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy has made the advancement [Nightmare Fuel]
