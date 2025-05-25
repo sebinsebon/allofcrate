@@ -4990,3 +4990,32 @@ ModdedBiomeSource (1b9febc1)
 [25May2025 19:00:41.129] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/49989, l='ServerLevel[world]', x=1772.44, y=72.62, z=-310.00] died, message: 'Butcher was slain by Zombie Villager'
 [25May2025 19:01:16.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/49987, l='ServerLevel[world]', x=1705.50, y=65.00, z=-312.70] died, message: 'Butcher was slain by Zombie'
 [25May2025 19:01:16.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone has made the advancement [Hunt and Gather]
+[25May2025 19:02:21.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/50006, l='ServerLevel[world]', x=1689.51, y=60.00, z=-342.06] died, message: 'Unemployed was slain by Zombie'
+[25May2025 19:02:28.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/50004, l='ServerLevel[world]', x=1690.08, y=60.00, z=-341.30] died, message: 'Unemployed was slain by Zombie Villager'
+[25May2025 19:03:01.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy moved wrongly!
+[25May2025 19:03:02.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy lost connection: Disconnected
+[25May2025 19:03:02.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy left the game
+[25May2025 19:03:02.963] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 19:03:10.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mabilone) moved wrongly! 0.29604671534480076
+[25May2025 19:03:10.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mabilone) moved wrongly! 0.6077487574189036
+[25May2025 19:03:10.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mabilone) moved wrongly! 0.91596991527922
+[25May2025 19:03:10.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mabilone) moved wrongly! 1.2223285213983672
+[25May2025 19:05:26.313] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Darrouy is 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 19:05:30.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darrouy[/127.94.45.177:43743] logged in with entity id 70642 at (-153.30847972169713, 33.0, -49.71126351454216)
+[25May2025 19:05:30.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy joined the game
+[25May2025 19:05:30.229] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 19:05:30.242] [Server thread/INFO] [Jade/]: Syncing config to Darrouy (416b83ff-3bc2-46cc-9923-6a0cf3635516)
+[25May2025 19:05:30.618] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[25May2025 19:05:30.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[25May2025 19:05:30.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[25May2025 19:05:30.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[25May2025 19:05:30.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[25May2025 19:05:30.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[25May2025 19:05:30.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[25May2025 19:05:30.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[25May2025 19:05:30.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[25May2025 19:05:30.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[25May2025 19:05:30.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/allofcrate/servidor_minecraft/bclib-sync (allowDelete=true)
+[25May2025 19:05:39.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy tried to swim in lava
+[25May2025 19:10:44.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy tried to swim in lava
+[25May2025 19:10:50.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone burned to death
