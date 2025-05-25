@@ -5045,3 +5045,20 @@ ModdedBiomeSource (1b9febc1)
 [25May2025 19:28:41.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy was blown up by Darrouy
 [25May2025 19:30:24.621] [Worker-Main-147/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/91564, l='ServerLevel[world]', x=-859.00, y=31.00, z=-184.00] as it would cause deadlock
 [25May2025 19:30:50.090] [Worker-Main-127/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/92115, l='ServerLevel[world]', x=-635.00, y=31.00, z=-252.00] as it would cause deadlock
+[25May2025 19:34:15.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy burned to death
+[25May2025 19:36:05.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy moved wrongly!
+[25May2025 19:36:13.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy moved wrongly!
+[25May2025 19:37:18.581] [Worker-Main-128/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/97236, l='ServerLevel[world]', x=-655.10, y=31.00, z=-280.00] as it would cause deadlock
+[25May2025 19:38:03.008] [Worker-Main-129/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/97809, l='ServerLevel[world]', x=-749.00, y=31.00, z=-406.00] as it would cause deadlock
+[25May2025 19:38:15.979] [Worker-Main-205/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/98114, l='ServerLevel[world]', x=-781.00, y=31.00, z=-509.00] as it would cause deadlock
+[25May2025 19:38:19.688] [Worker-Main-144/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/98238, l='ServerLevel[world]', x=-806.00, y=31.00, z=-522.00] as it would cause deadlock
+[25May2025 19:38:25.195] [Worker-Main-205/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/98455, l='ServerLevel[world]', x=-850.00, y=31.00, z=-434.00] as it would cause deadlock
+[25May2025 19:39:14.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy was slain by Crimson Mosquito
+[25May2025 19:39:44.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy lost connection: Disconnected
+[25May2025 19:39:44.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy left the game
+[25May2025 19:39:44.276] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 19:41:39.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 19:42:42.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 19:43:15.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone lost connection: Disconnected
+[25May2025 19:43:15.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone left the game
+[25May2025 19:43:15.804] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 1cad83d3-bc83-4945-8098-f935121abd7c
