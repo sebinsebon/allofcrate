@@ -4909,3 +4909,55 @@ ModdedBiomeSource (1b9febc1)
 [25May2025 18:38:24.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
 [25May2025 18:39:41.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy has completed the challenge [Hot Tourist Destinations]
 [25May2025 18:39:47.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy has made the advancement [Nightmare Fuel]
+[25May2025 18:41:30.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darrouy> 120 440
+[25May2025 18:41:55.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy lost connection: Disconnected
+[25May2025 18:41:55.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy left the game
+[25May2025 18:41:55.864] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 18:42:48.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone has completed the challenge [Hot Tourist Destinations]
+[25May2025 18:42:58.153] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e575844[id=<null>,name=Darrouy,properties={},legacy=false] (/127.94.45.177:59041) lost connection: Disconnected
+[25May2025 18:42:59.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:43:15.666] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Darrouy is 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 18:43:19.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darrouy[/127.94.45.177:35657] logged in with entity id 42190 at (151.69999998807907, 64.0, 476.54574385195025)
+[25May2025 18:43:19.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy joined the game
+[25May2025 18:43:19.589] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 18:43:19.595] [Server thread/INFO] [Jade/]: Syncing config to Darrouy (416b83ff-3bc2-46cc-9923-6a0cf3635516)
+[25May2025 18:43:19.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[25May2025 18:43:19.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[25May2025 18:43:19.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[25May2025 18:43:19.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[25May2025 18:43:19.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[25May2025 18:43:19.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[25May2025 18:43:19.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[25May2025 18:43:19.875] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[25May2025 18:43:19.875] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[25May2025 18:43:19.875] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[25May2025 18:43:19.875] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/allofcrate/servidor_minecraft/bclib-sync (allowDelete=true)
+[25May2025 18:43:25.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy lost connection: Disconnected
+[25May2025 18:43:25.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy left the game
+[25May2025 18:43:25.907] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 18:44:03.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:45:11.281] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Darrouy is 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 18:45:15.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darrouy[/127.94.45.177:53683] logged in with entity id 42507 at (151.69999998807907, 64.0, 476.54574385195025)
+[25May2025 18:45:15.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy joined the game
+[25May2025 18:45:15.429] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 18:45:15.435] [Server thread/INFO] [Jade/]: Syncing config to Darrouy (416b83ff-3bc2-46cc-9923-6a0cf3635516)
+[25May2025 18:45:15.678] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[25May2025 18:45:15.678] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[25May2025 18:45:15.679] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[25May2025 18:45:15.679] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[25May2025 18:45:15.679] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[25May2025 18:45:15.679] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[25May2025 18:45:15.679] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[25May2025 18:45:15.679] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[25May2025 18:45:15.680] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[25May2025 18:45:15.680] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[25May2025 18:45:15.680] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/allofcrate/servidor_minecraft/bclib-sync (allowDelete=true)
+[25May2025 18:45:23.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:45:26.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:45:28.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy moved wrongly!
+[25May2025 18:47:29.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:47:31.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy moved wrongly!
+[25May2025 18:48:44.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy has made the advancement [Who is Cutting Onions?]
+[25May2025 18:50:21.530] [Worker-Main-146/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/44751, l='ServerLevel[world]', x=-428.00, y=31.00, z=-232.00] as it would cause deadlock
+[25May2025 18:50:21.682] [Worker-Main-146/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/44758, l='ServerLevel[world]', x=-420.00, y=31.00, z=207.00] as it would cause deadlock
+[25May2025 18:50:42.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy fell from a high place
