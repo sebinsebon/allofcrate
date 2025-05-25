@@ -5025,3 +5025,23 @@ ModdedBiomeSource (1b9febc1)
 [25May2025 19:20:17.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
 [25May2025 19:20:58.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
 [25May2025 19:21:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy has made the advancement [Fetch Me Their Souls!]
+[25May2025 19:24:37.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy has made the advancement [Take Aim]
+[25May2025 19:24:50.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy moved wrongly!
+[25May2025 19:25:11.774] [Worker-Main-205/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/86201, l='ServerLevel[world]', x=-581.00, y=31.00, z=551.00] as it would cause deadlock
+[25May2025 19:25:11.774] [Worker-Main-205/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/86203, l='ServerLevel[world]', x=-583.00, y=31.00, z=549.00] as it would cause deadlock
+[25May2025 19:25:15.345] [Worker-Main-128/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/86288, l='ServerLevel[world]', x=-599.00, y=97.00, z=589.00] as it would cause deadlock
+[25May2025 19:25:15.456] [Worker-Main-127/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/86294, l='ServerLevel[world]', x=-275.00, y=31.00, z=582.00] as it would cause deadlock
+[25May2025 19:25:20.594] [Worker-Main-147/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/86588, l='ServerLevel[world]', x=-682.00, y=31.00, z=624.90] as it would cause deadlock
+[25May2025 19:25:54.730] [Worker-Main-204/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/87189, l='ServerLevel[world]', x=-885.00, y=31.00, z=383.00] as it would cause deadlock
+[25May2025 19:26:07.694] [Worker-Main-147/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/87475, l='ServerLevel[world]', x=-998.00, y=31.00, z=523.00] as it would cause deadlock
+[25May2025 19:26:42.181] [Worker-Main-129/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/87798, l='ServerLevel[world]', x=-1155.00, y=31.00, z=653.00] as it would cause deadlock
+[25May2025 19:26:48.497] [Worker-Main-205/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25May2025 19:26:48.498] [Worker-Main-205/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25May2025 19:27:01.550] [Worker-Main-204/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/88116, l='ServerLevel[world]', x=-1226.00, y=31.00, z=36.00] as it would cause deadlock
+[25May2025 19:27:06.557] [Worker-Main-127/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/88148, l='ServerLevel[world]', x=-1298.00, y=31.00, z=119.00] as it would cause deadlock
+[25May2025 19:27:10.918] [Worker-Main-205/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/88175, l='ServerLevel[world]', x=-1339.00, y=73.00, z=441.00] as it would cause deadlock
+[25May2025 19:27:34.980] [Worker-Main-204/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/89004, l='ServerLevel[world]', x=-1523.00, y=31.00, z=328.00] as it would cause deadlock
+[25May2025 19:28:08.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy moved wrongly!
+[25May2025 19:28:41.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy was blown up by Darrouy
+[25May2025 19:30:24.621] [Worker-Main-147/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/91564, l='ServerLevel[world]', x=-859.00, y=31.00, z=-184.00] as it would cause deadlock
+[25May2025 19:30:50.090] [Worker-Main-127/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/92115, l='ServerLevel[world]', x=-635.00, y=31.00, z=-252.00] as it would cause deadlock
