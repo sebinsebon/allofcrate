@@ -5232,3 +5232,6 @@ ModdedBiomeSource (1b9febc1)
 [25May2025 22:16:58.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
 [25May2025 22:16:58.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy moved wrongly!
 [25May2025 22:24:33.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/144138, l='ServerLevel[world]', x=446.14, y=65.50, z=497.70] died, message: 'Unemployed was slain by Zombie'
+[25May2025 22:31:23.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy lost connection: Disconnected
+[25May2025 22:31:23.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy left the game
+[25May2025 22:31:23.767] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
