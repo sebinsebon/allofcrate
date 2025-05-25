@@ -5229,3 +5229,6 @@ ModdedBiomeSource (1b9febc1)
 [25May2025 22:14:44.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mabilone) moved wrongly! 1.5743805157687802
 [25May2025 22:14:44.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mabilone) moved wrongly! 0.2911061568435116
 [25May2025 22:15:04.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy has completed the challenge [Return to Sender]
+[25May2025 22:16:58.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 22:16:58.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy moved wrongly!
+[25May2025 22:24:33.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/144138, l='ServerLevel[world]', x=446.14, y=65.50, z=497.70] died, message: 'Unemployed was slain by Zombie'

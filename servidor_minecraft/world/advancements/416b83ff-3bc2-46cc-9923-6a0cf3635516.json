@@ -516,6 +516,7 @@
       "minecraft:blaze": "2025-05-22 02:14:35 +0000",
       "minecraft:pillager": "2025-05-22 01:38:46 +0000",
       "minecraft:skeleton": "2025-05-22 01:46:07 +0000",
+      "minecraft:ghast": "2025-05-25 22:15:04 +0000",
       "minecraft:magma_cube": "2025-05-25 04:27:06 +0000",
       "minecraft:piglin_brute": "2025-05-25 03:59:46 +0000",
       "minecraft:zombified_piglin": "2025-05-22 01:37:26 +0000",
@@ -706,6 +707,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-25 19:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-05-25 22:15:04 +0000"
     },
     "done": true
   },
