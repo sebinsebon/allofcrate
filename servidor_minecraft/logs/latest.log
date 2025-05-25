@@ -5019,3 +5019,9 @@ ModdedBiomeSource (1b9febc1)
 [25May2025 19:05:39.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy tried to swim in lava
 [25May2025 19:10:44.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy tried to swim in lava
 [25May2025 19:10:50.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone burned to death
+[25May2025 19:19:11.173] [Worker-Main-129/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/84287, l='ServerLevel[world]', x=-467.00, y=31.00, z=245.00] as it would cause deadlock
+[25May2025 19:19:20.159] [Worker-Main-205/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/84357, l='ServerLevel[world]', x=-475.00, y=31.00, z=374.00] as it would cause deadlock
+[25May2025 19:19:33.993] [Worker-Main-129/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/84635, l='ServerLevel[world]', x=-526.00, y=31.00, z=373.00] as it would cause deadlock
+[25May2025 19:20:17.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 19:20:58.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 19:21:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy has made the advancement [Fetch Me Their Souls!]
