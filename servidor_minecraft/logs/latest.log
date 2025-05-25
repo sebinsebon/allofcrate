@@ -4961,3 +4961,32 @@ ModdedBiomeSource (1b9febc1)
 [25May2025 18:50:21.530] [Worker-Main-146/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/44751, l='ServerLevel[world]', x=-428.00, y=31.00, z=-232.00] as it would cause deadlock
 [25May2025 18:50:21.682] [Worker-Main-146/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/44758, l='ServerLevel[world]', x=-420.00, y=31.00, z=207.00] as it would cause deadlock
 [25May2025 18:50:42.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy fell from a high place
+[25May2025 18:51:29.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy lost connection: Disconnected
+[25May2025 18:51:29.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy left the game
+[25May2025 18:51:29.321] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 18:52:44.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:52:48.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:53:47.465] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Darrouy is 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 18:53:51.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darrouy[/127.94.45.177:46965] logged in with entity id 47079 at (490.61569524493626, 75.0, 401.01808500112617)
+[25May2025 18:53:51.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy joined the game
+[25May2025 18:53:51.266] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 416b83ff-3bc2-46cc-9923-6a0cf3635516
+[25May2025 18:53:51.270] [Server thread/INFO] [Jade/]: Syncing config to Darrouy (416b83ff-3bc2-46cc-9923-6a0cf3635516)
+[25May2025 18:53:52.022] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[25May2025 18:53:52.022] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[25May2025 18:53:52.023] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[25May2025 18:53:52.023] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[25May2025 18:53:52.023] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[25May2025 18:53:52.023] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[25May2025 18:53:52.023] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[25May2025 18:53:52.023] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[25May2025 18:53:52.023] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[25May2025 18:53:52.023] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[25May2025 18:53:52.023] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/allofcrate/servidor_minecraft/bclib-sync (allowDelete=true)
+[25May2025 18:55:24.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:56:20.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy moved wrongly!
+[25May2025 18:58:23.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25May2025 18:59:08.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slain by Magma Cube
+[25May2025 18:59:37.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/50070, l='ServerLevel[world]', x=1768.48, y=65.42, z=-302.30] died, message: 'Butcher was slain by Husk'
+[25May2025 19:00:41.129] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/49989, l='ServerLevel[world]', x=1772.44, y=72.62, z=-310.00] died, message: 'Butcher was slain by Zombie Villager'
+[25May2025 19:01:16.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/49987, l='ServerLevel[world]', x=1705.50, y=65.00, z=-312.70] died, message: 'Butcher was slain by Zombie'
+[25May2025 19:01:16.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone has made the advancement [Hunt and Gather]
