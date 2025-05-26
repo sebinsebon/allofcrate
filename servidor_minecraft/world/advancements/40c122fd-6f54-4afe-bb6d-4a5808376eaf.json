@@ -512,6 +512,7 @@
     "criteria": {
       "caverns_and_chasms:deeper": "2025-05-23 21:37:37 +0000",
       "minecraft:skeleton": "2025-05-21 00:53:57 +0000",
+      "minecraft:ghast": "2025-05-26 23:44:50 +0000",
       "minecraft:magma_cube": "2025-05-21 22:26:37 +0000",
       "minecraft:spider": "2025-05-21 01:51:23 +0000",
       "minecraft:creeper": "2025-05-21 01:53:10 +0000",
@@ -523,6 +524,7 @@
       "minecraft:wither_skeleton": "2025-05-22 01:54:02 +0000",
       "minecraft:cave_spider": "2025-05-23 23:58:20 +0000",
       "quark:wraith": "2025-05-22 02:48:00 +0000",
+      "minecraft:piglin": "2025-05-26 23:48:15 +0000",
       "minecraft:enderman": "2025-05-23 22:06:45 +0000",
       "caverns_and_chasms:mime": "2025-05-21 18:02:21 +0000",
       "minecraft:zombie": "2025-05-21 17:28:39 +0000",
@@ -919,6 +921,18 @@
   "create:steam_engine": {
     "criteria": {
       "0": "2025-05-24 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-05-26 23:44:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-05-26 23:43:36 +0000"
     },
     "done": true
   },
