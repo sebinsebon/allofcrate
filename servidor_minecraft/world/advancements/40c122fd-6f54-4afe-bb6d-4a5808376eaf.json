@@ -910,15 +910,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-05-24 03:13:09 +0000"
+    },
+    "done": true
+  },
   "create:steam_engine": {
     "criteria": {
       "0": "2025-05-24 03:13:37 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
+  "create:brass_casing": {
     "criteria": {
-      "campfire": "2025-05-24 03:13:09 +0000"
+      "0": "2025-05-26 22:51:47 +0000"
     },
     "done": true
   },
