@@ -4673,3 +4673,41 @@ ModdedBiomeSource (14eb5172)
 [26May2025 22:11:04.975] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [26May2025 22:11:04.975] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/allofcrate/servidor_minecraft/bclib-sync (allowDelete=true)
 [26May2025 22:11:05.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13611ms or 272 ticks behind
+[26May2025 22:33:12.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was blown up by Deeper
+[26May2025 22:34:45.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slain by Mime
+[26May2025 22:34:49.190] [IO-Worker-62/ERROR] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to store chunk [73, 49]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23514!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23514!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23514!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23514!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.20.1-20230612.114412-srg.jar%23514!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.20.1-20230612.114412-srg.jar%23514!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23514!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23514!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23514!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23514!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26May2025 22:35:37.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was blown up by Deeper
+[26May2025 22:37:03.587] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player sebita_chile is 40c122fd-6f54-4afe-bb6d-4a5808376eaf
+[26May2025 22:37:07.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebita_chile[/127.183.209.125:58671] logged in with entity id 7122 at (652.582905146164, 68.0, 814.527554523334)
+[26May2025 22:37:07.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile joined the game
+[26May2025 22:37:07.447] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 40c122fd-6f54-4afe-bb6d-4a5808376eaf
+[26May2025 22:37:07.467] [Server thread/INFO] [Jade/]: Syncing config to sebita_chile (40c122fd-6f54-4afe-bb6d-4a5808376eaf)
+[26May2025 22:37:08.921] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[26May2025 22:37:08.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[26May2025 22:37:08.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[26May2025 22:37:08.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[26May2025 22:37:08.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[26May2025 22:37:08.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[26May2025 22:37:08.923] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[26May2025 22:37:08.923] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[26May2025 22:37:08.923] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[26May2025 22:37:08.923] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[26May2025 22:37:08.923] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/allofcrate/servidor_minecraft/bclib-sync (allowDelete=true)
+[26May2025 22:37:13.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mabilone> ou
+[26May2025 22:37:46.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> ou
