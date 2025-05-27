@@ -930,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-26 23:56:38 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed_by": "2025-05-26 23:43:36 +0000"
